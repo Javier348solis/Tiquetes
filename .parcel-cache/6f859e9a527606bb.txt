@@ -1,6 +1,6 @@
 4286
 90C:\Users\estud\Downloads\Tiquetes\node_modules\caniuse-lite\data\features\accelerometer.js133686408620394094 0
-46C:\Users\estud\Downloads\Tiquetes\package.json133686431453810554 0
+46C:\Users\estud\Downloads\Tiquetes\package.json133686432594739518 0
 77C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\node-resolver-core\src133686408628416728 1
 74C:\Users\estud\Downloads\Tiquetes\node_modules\css-tree\lib\lexer\Lexer.js133686408628926680 0
 81C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\namer-default\package.json133686408619694586 0
