@@ -4,13 +4,15 @@ let correo = document.getElementById("correo")
 let clave = document.getElementById("clave")
 let ingresar = document.getElementById("ingresar")
 
-ingresar.addEventListener("click", () => {
+ingresar.addEventListener("click", async() => {
+    let info = await getDatos()
     if (nombre.value==="" || correo.value==="" || clave.value==="") {
-        //suit alert
-    }
-})
-let datos = {
-    nombre: nombre.value,
-    correo: correo.value,
-    clave: clave.value
-}
+        //sweet alert
+        }
+        })
+        
+        let datos = {
+            nombre: nombre.value,
+            correo: correo.value,
+            clave: clave.value,
+        }
