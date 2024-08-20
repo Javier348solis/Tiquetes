@@ -1,0 +1,23 @@
+body {
+  background-color: #adff2f;
+}
+
+.contenedor-registro {
+  color: red;
+  background-color: #00000061;
+  border: 2px solid #000;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.contenedor-registro input {
+  width: 300px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding: 5px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.4703f5d2.css.map */

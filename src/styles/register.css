@@ -1,12 +1,24 @@
 body{
+   background-color: greenyellow;
 
 }
 
 .contenedor-registro{
-
+   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid black;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.382);
 }
 
-.espacios1{
-
+.contenedor-registro input{
+    padding: 5px;
+    width: 300px;
+    margin-bottom: 5px;
+    display: flex;
+    margin-top: 15px;
 }
 
