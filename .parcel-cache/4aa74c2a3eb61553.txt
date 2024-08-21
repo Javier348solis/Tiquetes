@@ -1,4 +1,4 @@
-4300
+4309
 90C:\Users\estud\Downloads\Tiquetes\node_modules\caniuse-lite\data\features\accelerometer.js133686408620394094 0
 46C:\Users\estud\Downloads\Tiquetes\package.json133687282021883921 0
 77C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\node-resolver-core\src133686408628416728 1
@@ -57,7 +57,7 @@
 85C:\Users\estud\Downloads\Tiquetes\node_modules\css-tree\lib\syntax\node\Identifier.js133686408628147262 0
 97C:\Users\estud\Downloads\Tiquetes\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133686408629844751 0
 41C:\Users\estud\Downloads\Tiquetes\db.json133686403500091970 0
-38C:\Users\estud\Downloads\Tiquetes\dist133687282023389283 1
+38C:\Users\estud\Downloads\Tiquetes\dist133687323815998469 1
 103C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133686408627078968 1
 95C:\Users\estud\Downloads\Tiquetes\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133686408623283677 0
 63C:\Users\estud\Downloads\Tiquetes\node_modules\term-size\vendor133686408620045885 1
@@ -94,14 +94,14 @@
 138C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo133686408630205642 1
 74C:\Users\estud\Downloads\Tiquetes\node_modules\lightningcss-win32-x64-msvc133686408618704053 1
 86C:\Users\estud\Downloads\Tiquetes\node_modules\caniuse-lite\data\features\innertext.js133686408634858478 0
-43C:\Users\estud\Downloads\Tiquetes\src\Pages133687250509163822 1
+43C:\Users\estud\Downloads\Tiquetes\src\Pages133687305287728412 1
 90C:\Users\estud\Downloads\Tiquetes\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133686408634687291 0
 60C:\Users\estud\Downloads\Tiquetes\node_modules\nth-check\lib133686408625205870 1
 63C:\Users\estud\Downloads\Tiquetes\node_modules\clone\.npmignore133686408618168769 0
 76C:\Users\estud\Downloads\Tiquetes\node_modules\regenerator-runtime\README.md133686408620045885 0
 84C:\Users\estud\Downloads\Tiquetes\node_modules\abortcontroller-polyfill\package.json133686408622626257 0
 114C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\dist\index.js133686408619136919 0
-54C:\Users\estud\Downloads\Tiquetes\src\Styles\Login.css133687245163359304 0
+54C:\Users\estud\Downloads\Tiquetes\src\Styles\Login.css133687306051400334 0
 85C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_non_iterable_rest.js133686408628147262 0
 44C:\Users\estud\Downloads\Tiquetes\src\Styles133687241685612477 1
 89C:\Users\estud\Downloads\Tiquetes\node_modules\@babel\helper-validator-identifier\scripts133686408621894765 1
@@ -122,17 +122,17 @@
 67C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\workers\test133686408627132530 1
 76C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\utils\src\Deferred.js133686408623239179 0
 96C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\hash\parcel-hash.linux-arm-gnueabihf.node133686408624573272 0
-57C:\Users\estud\Downloads\Tiquetes\src\Styles\register.css133686547490871805 0
+57C:\Users\estud\Downloads\Tiquetes\src\Styles\register.css133687306794237927 0
 77C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\watcher\src\DirTree.cc133686408620894989 0
 80C:\Users\estud\Downloads\Tiquetes\node_modules\lmdb\dependencies\lz4\lib\LICENSE133686408622206752 0
 67C:\Users\estud\Downloads\Tiquetes\node_modules\fill-range\README.md133686408619536803 0
 53C:\Users\estud\Downloads\Tiquetes\node_modules\@lezer133686408605364439 1
-54C:\Users\estud\Downloads\Tiquetes\src\Pages\Login.html133687273030743932 0
+54C:\Users\estud\Downloads\Tiquetes\src\Pages\Login.html133687314252492204 0
 59C:\Users\estud\Downloads\Tiquetes\node_modules\mdn-data\api133686408622580578 1
 108C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-html\node_modules\posthtml-parser\license133686408617658924 0
 87C:\Users\estud\Downloads\Tiquetes\node_modules\css-tree\lib\syntax\node\MediaFeature.js133686408629237951 0
 80C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\core\lib\public\Config.js133686408627507542 0
-49C:\Users\estud\Downloads\Tiquetes\src\js\Login.js133687281709777904 0
+49C:\Users\estud\Downloads\Tiquetes\src\js\Login.js133687361420727003 0
 83C:\Users\estud\Downloads\Tiquetes\node_modules\svgo\plugins\removeElementsByAttr.js133686408627328197 0
 90C:\Users\estud\Downloads\Tiquetes\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133686408621760056 0
 61C:\Users\estud\Downloads\Tiquetes\node_modules\dom-serializer133686408622322489 1
@@ -155,7 +155,7 @@
 58C:\Users\estud\Downloads\Tiquetes\node_modules\buffer-from133686408619335050 1
 75C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\package-manager\test133686408626350326 1
 79C:\Users\estud\Downloads\Tiquetes\node_modules\electron-to-chromium\versions.js133686408621053500 0
-52C:\Users\estud\Downloads\Tiquetes\src\hooks\fetch.js133686633327422595 0
+52C:\Users\estud\Downloads\Tiquetes\src\hooks\fetch.js133687323815534984 0
 56C:\Users\estud\Downloads\Tiquetes\node_modules\@mischnic133686408605232228 1
 104C:\Users\estud\Downloads\Tiquetes\node_modules\dom-serializer\node_modules\entities\lib\maps\decode.json133686408620814619 0
 76C:\Users\estud\Downloads\Tiquetes\node_modules\source-map-support\LICENSE.md133686408620844624 0
@@ -3488,6 +3488,7 @@
 78C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_instanceof.js133686408627422842 0
 101C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_class_check_private_static_access.js133686408623234145 0
 99C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_class_private_field_destructure.js133686408624041444 0
+61C:\Users\estud\Downloads\Tiquetes\dist\Login.0465aad6.css.map133687323595918257 0
 79C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\source-map\dist\types.js133686408622901199 0
 92C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_class_private_field_init.js133686408624573272 0
 92C:\Users\estud\Downloads\Tiquetes\node_modules\@swc\helpers\lib\_class_private_method_get.js133686408625528162 0
@@ -3711,6 +3712,7 @@
 112C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\package.json133686408620155241 0
 109C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\readme.md133686408621138407 0
 113C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist\index.js133686408619136919 0
+60C:\Users\estud\Downloads\Tiquetes\dist\Login.6441b9fe.js.map133687305869993420 0
 126C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist\location-tracker.d.ts133686408621675201 0
 124C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\node_modules\posthtml-parser\dist\location-tracker.js133686408619614889 0
 90C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\transformer-svg\lib\dependencies.js133686408618325010 0
@@ -3855,6 +3857,7 @@
 80C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\package.json133686408622744729 0
 71C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\src133686408622537583 1
 86C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\src\CLIReporter.js133686408621446658 0
+56C:\Users\estud\Downloads\Tiquetes\dist\Login.346d5ddf.js133687305869834482 0
 80C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\src\emoji.js133686408621992945 0
 80C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\src\utils.js133686408622598735 0
 86C:\Users\estud\Downloads\Tiquetes\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133686408621206447 0
@@ -4296,6 +4299,12 @@
 57C:\Users\estud\Downloads\Tiquetes\dist\index.4703f5d2.css133687282023197178 0
 61C:\Users\estud\Downloads\Tiquetes\dist\index.4703f5d2.css.map133687282023278175 0
 49C:\Users\estud\Downloads\Tiquetes\dist\index.html133687282023197178 0
+57C:\Users\estud\Downloads\Tiquetes\dist\Login.0465aad6.css133687323595878177 0
+60C:\Users\estud\Downloads\Tiquetes\dist\Login.346d5ddf.js.map133687305869981602 0
+56C:\Users\estud\Downloads\Tiquetes\dist\Login.6441b9fe.js133687305869834482 0
+56C:\Users\estud\Downloads\Tiquetes\dist\Login.ddba21dd.js133687323815918215 0
+60C:\Users\estud\Downloads\Tiquetes\dist\Login.ddba21dd.js.map133687323815968463 0
+49C:\Users\estud\Downloads\Tiquetes\dist\Login.html133687314251396059 0
 65C:\Users\estud\Downloads\Tiquetes\dist\Plantilla-main.59712999.js133686547490695600 0
 69C:\Users\estud\Downloads\Tiquetes\dist\Plantilla-main.59712999.js.map133686547490720704 0
 60C:\Users\estud\Downloads\Tiquetes\dist\Plantilla.59712999.js133686403500101980 0
