@@ -11,6 +11,22 @@ async function getDatos() {
 };
 export {getDatos}
 
+/////////////////////////////////////////
+
+// export async function getDatos() {
+//     try {
+//         const response = await fetch('http://localhost:3001/users'); // Reemplaza con tu endpoint real
+//         if (!response.ok) {
+//             throw new Error('Error fetching users');
+//         }
+//         const data = await response.json();
+//         return data; // Suponiendo que data es una lista de usuarios
+//     } catch (error) {
+//         console.error('Error fetching users:', error);
+//         return [];
+//     }
+// }
+
 
 
 // async function getUsers() {
